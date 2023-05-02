@@ -1,0 +1,3 @@
+# Rice_crop_field_classification_using_satellite_data
+The project aims to develop an accurate and efficient model for rice crop identification that can be used to improve agricultural productivity and, ultimately, alleviate hunger. The data set was gathered from the European Copernicus (Sentinel-1 and Sentinel-2) program and NASA's Landsat program. 
+Commonly used machine learning algorithms such as gradient boosting classifier, label propagation, random forest classifier, KNN[K - Nearest Neighbour] and Gaussian process classifier were used to predict the presence of rice crops. Better results were obtained for the Gaussian process classifier with an f1-score of 0.90.
